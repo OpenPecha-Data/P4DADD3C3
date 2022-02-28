@@ -1,0 +1,44 @@
+id: P4DADD3C3
+initial_creation_type: input
+source_metadata:
+  title: Padmasambhava
+  language: bo
+  description: 'Texts by and about Guru Padmasambhava or Padmākara (padma ''byung
+    gnas), the "Lotus-Born", who is credited with establishing Buddhism in Tibet:'
+  volume:
+    f9521cd0073b43a787798f2e2b211abe:
+      title: 'A Garland of Vajra Gems: The Life and Liberation of the Guru'
+      parent: Biography
+    fcda48c6866c43dd9798c027e7d17041:
+      title: The Biography of the Great Orgyen that Naturally Liberates On Sight
+      parent: Biography
+    770d73b07a28402e97665ebf879f4bca:
+      title: The Life and Liberation of Padmākara, the Second Buddha from A Precious
+        Garland of Lapis Lazuli
+      parent: Biography
+    c6891cb9957449eba281f3302cd84b77:
+      title: 'The Wish-Fulfilling Tree: The Life Story of the Master of Uḍḍiyāna
+        as found in Padmasambhava’s Sevenfold Cycle of Profundity'
+      parent: Biography
+    3c2487f296044763b90d17c4cceefacd:
+      title: 'Three Reasons for Confidence: A Work Telling the Life and Liberation
+        Story of the Great Master Padmākara'
+      parent: Biography
+    497fe2ca5563478c8f5f36096e7c6a62:
+      title: A Praise to the Lotus King
+      parent: Praise
+    3bcded55ec5340c8a95988a95a1710c3:
+      title: In Praise of Padmākara, the Great Guru of Uḍḍiyāna
+      parent: Praise
+    7c99924353094112bd5e03939a538238:
+      title: 'The Three Kāyas: Praises to the Great Master Padmasambhava'
+      parent: Praise
+    89569b0fc3fd477180331bc1ecfcbf81:
+      title: Prayer to the Indian Mahāpaṇḍita Padmasambhava
+      parent: Prayers
+    4d00cb955f024af79e09583fb03470d5:
+      title: 'Divine Blue Water: A Contamination Purifying Smoke Offering by the Great
+        Master Padmasambhava'
+      parent: Sang Offering
+created_at: '2022-03-01T02:20:28.416120'
+last_modified_at: '2022-03-01T02:20:28.416123'
